@@ -1,7 +1,7 @@
 ﻿{
     "project":  "stm32f411-app",
-    "version":  "1.0.2",
-    "bin_url":  "https://hodinhthi92.github.io/stm32_hd_thi/stm32_firmware.bin",
-    "size":  5812,
-    "sha256":  "d9aaa10c96bcfb71fb85467b392d3b331e837132062b8f36921bbe54ca0d0ba6"
+    "version":  "1.0.3",
+    "bin_url":  "https://hodinhthi92.github.io/stm32_hd_thi/stm32_ota_100.bin",
+    "size":  5808,
+    "sha256":  "538a3911ac65507803247cb0de161ad933dba9f992620872fbe9e4a5c8f11a02"
 }
